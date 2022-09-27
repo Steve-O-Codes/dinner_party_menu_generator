@@ -1,6 +1,7 @@
 # Python 🐍 Dinner Menu Generator 🍗🥞🥙🍕
 
 View and run this code on Replit - https://replit.com/@PythonWrangler/dinnerparty?v=1
+
 Note - Browser opening function not available on replit
 
 *Day 10 of 100 days of code*
